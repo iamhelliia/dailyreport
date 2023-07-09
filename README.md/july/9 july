@@ -1,0 +1,26 @@
+# helia's Report
+## Date: July 09 (17,4,1402)
+
+## OverView & Avstract
+###  Wordpress plugin(roles and cap).
+### Github.
+
+## Task Details
+### Caps determines what each roles does(edit_post,delete_post,add_users,…).
+### function(add_role/add_cap).
+### Check user role : current_user_can.
+### wp_register_style/wp_enqueue_style(for css and js).
+
+
+## Challenges
+### Lack of concentration due to sleepiness.
+
+
+## Next steps
+### ajax in wordpress.
+### mini project.
+
+
+
+## Conclusion
+### Don't forget morning coffee 
