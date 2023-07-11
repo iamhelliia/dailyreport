@@ -1,0 +1,29 @@
+# helia's Report
+## Date: July 11 (19,4,1402)
+
+## OverView & Avstract
+###  ajax 
+### hasanzad landing page
+### mvc
+
+## Task Details
+### model(connect to database),view(template of html),controller(model to view).
+### flow of request in mvc(cont->model[data]->cont->view).
+### each database table , a model class.
+### routes and routers in mvc(routing /URL_dispatching).
+### middleware
+
+
+## Challenges
+### watching course without code is boring .
+
+
+## Next steps
+### reviw parsa's codes
+### r&d
+
+
+
+
+## Conclusion
+### forget everything and focus in yours.
