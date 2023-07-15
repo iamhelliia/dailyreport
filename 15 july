@@ -1,0 +1,27 @@
+# helia's Report
+## Date: July 15 (24,4,1402)
+
+## OverView & Avstract
+### login and register form 
+ 
+
+## Task Details
+### nopriv for user dont login.
+### The sanitizing function is for security.
+### Validation user ->wp_signon,wp_authenticate_username/email_password.
+
+
+
+## Challenges
+### debug codes
+
+
+## Next steps
+### ajax
+ 
+
+
+
+
+## Conclusion
+### Interesting, maybe your code is correct but it doesn't work
