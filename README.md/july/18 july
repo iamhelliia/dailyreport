@@ -1,0 +1,37 @@
+# helia's Report
+## Date: July 18 (27,4,1402)
+
+## OverView & Avstract
+###  wordpress template
+
+
+
+## Task Details
+### text domain for Translation
+### less/sass for simple css code
+### bable/gulp/webpack for Professional templates
+### Display content
+   { 01  -  single-{post_type}-{slug}.php  single-product-iphone.php
+     02  -  single-{post_type}.php
+     03  -  single.php
+     04  -  singular.php
+     05  -  index.php
+     }
+### prioritize : front-page > home > index 
+
+
+
+
+## Challenges
+### nothing
+
+
+## Next steps
+### Implement a simple template
+
+
+
+
+
+## Conclusion
+### ...
