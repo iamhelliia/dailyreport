@@ -1,0 +1,36 @@
+# helia's Report
+## Date: sep 30 (8,7,1402)
+
+## OverView & Avstract
+### translate in wordpress
+### familarity with translation functions
+
+
+
+
+
+## Task Details
+### .pot file must be in the theme (pot is refrence file).
+###  load_plugin/theme_textdoaim -> for uploading translation file.
+### _e() function for echo text.
+### __() function for return and save text.
+### wpcli -> command  line --> create translation file.
+ 
+
+
+## Challenges
+### Wearing a maqneee in the office
+### i have important bug in my wordpress and it doest open . 
+
+
+
+## Next steps
+### control panel
+### debug panel pro
+### I will work remotely tomorrow
+
+
+
+
+## Conclusion
+### learn some function for translate.
