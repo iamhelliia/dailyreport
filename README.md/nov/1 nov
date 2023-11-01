@@ -1,0 +1,37 @@
+# helia's Report
+## Date: oct 30(8,8,1402)
+
+## OverView & Avstract
+### woocammerce course
+
+
+
+
+
+
+
+
+## Task Details
+### move all directories in themplate to woocammerce folder in theme 
+### wc function or class  for woocammerce
+### if (!defined('ABSPATH')){ exit; // exit if access directly } -> for security.
+### theme in the beggining use archive file.
+### col_md_8 for sidebar / col_md_4 for product. 
+
+
+## Challenges
+### 
+
+
+
+
+## Next steps
+### coursera 
+###  woocammmerce template 
+
+
+
+
+
+## Conclusion
+### please  dont take nap in the afternoon you need time...
